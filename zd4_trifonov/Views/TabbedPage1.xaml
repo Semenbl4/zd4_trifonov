@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zd4_trifonov.Views.TabbedPage1"
+             Title="Калькулятор и Курсы">
+    
+  <!--Pages can be added as references or inline-->
+    <ContentPage Title="Кредитный калькулятор">
+        <ScrollView>
+            <StackLayout Padding="20" Spacing="15">
+
+                <Label Text="Сумма кредита:" />
+                <Entry x:Name="AmountEntry" Keyboard="Numeric" Placeholder="Введите сумму" />
+
+                <Label Text="Срок (месяцев):" />
+                <Entry x:Name="PeriodEntry" Keyboard="Numeric" Placeholder="Введите срок" />
+
+                <Label Text="Вид платежа:" />
+                <Picker x:Name="TypePicker" SelectedIndexChanged="OnTypePickerChanged">
+                    <Picker.Items>
+                        <x:String>Аннуитетный</x:String>
+                        <x:String>Дифференцированный</x:String>
+                    </Picker.Items>
+                </Picker>
+
+                <Label Text="Процентная ставка:" />
+                <Slider x:Name="RateSlider" 
+                        Minimum="0" 
+                        Maximum="30" 
+                        Value="5" 
+                        ThumbColor="#2196F3" 
+                        MinimumTrackColor="#2196F3" 
+                        MaximumTrackColor="#D3D3D3"
+                        ValueChanged="OnSliderValueChanged" />
+                <Label x:Name="RateLabel" Text="5%" HorizontalOptions="Center" />
+
+                <Button Text="Рассчитать" Clicked="OnCalculateClicked" BackgroundColor="#2196F3" TextColor="White" />
+
+                <StackLayout Spacing="10" Margin="0,20,0,0">
+                    <Label x:Name="MonthPayLabel" Text="Ежемесячный платеж: ...." FontAttributes="Bold" />
+                    <Label x:Name="TotalPayLabel" Text="Общая сумма: ...." />
+                    <Label x:Name="OverpayLabel" Text="Переплата: ...." />
+                </StackLayout>
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage>
+
+    <!-- ТАБ 2: Курсы валют -->
+    <ContentPage Title="Курсы валют">
+        <StackLayout Padding="20" Spacing="20">
+
+            <Label Text="Центробанк РФ:" FontSize="Title" FontAttributes="Bold" />
+
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <Label Text="USD" FontAttributes="Bold" />
+                <Label Text="80.000" />
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" Spacing="10">
+                <Label Text="EUR" FontAttributes="Bold" />
+                <Label Text="86.000" />
+            </StackLayout>
+
+            <Label Text="Выбрать дату:" Margin="0,20,0,0" />
+            <DatePicker x:Name="RateDatePicker" />
+
+        </StackLayout>
+    </ContentPage>
+</TabbedPage>
