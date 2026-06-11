@@ -12,9 +12,12 @@ C:\Users\st310-08\Desktop\zd4_trifonov\zd4_trifonov\obj\Debug\netstandard2.0\Vie
 C:\Users\st310-08\Desktop\zd4_trifonov\zd4_trifonov\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
 C:\Users\st310-08\Desktop\zd4_trifonov\zd4_trifonov\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
 C:\Users\st310-08\Desktop\zd4_trifonov\zd4_trifonov\obj\Debug\netstandard2.0\Views\TabbedPage1.xaml.g.cs
+C:\Users\st310-08\Desktop\zd4_trifonov\zd4_trifonov\obj\Debug\netstandard2.0\Views\WelcomePage.xaml.g.cs
+C:\Users\st310-08\Desktop\zd4_trifonov\zd4_trifonov\obj\Debug\netstandard2.0\Views\styles.css.g.cs
 C:\Users\st310-08\Desktop\zd4_trifonov\zd4_trifonov\obj\Debug\netstandard2.0\zd4_trifonov.AssemblyInfoInputs.cache
 C:\Users\st310-08\Desktop\zd4_trifonov\zd4_trifonov\obj\Debug\netstandard2.0\zd4_trifonov.AssemblyInfo.cs
 C:\Users\st310-08\Desktop\zd4_trifonov\zd4_trifonov\obj\Debug\netstandard2.0\zd4_trifonov.csproj.CoreCompileInputs.cache
+C:\Users\st310-08\Desktop\zd4_trifonov\zd4_trifonov\obj\Debug\netstandard2.0\zd4_trifonov.sourcelink.json
 C:\Users\st310-08\Desktop\zd4_trifonov\zd4_trifonov\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\st310-08\Desktop\zd4_trifonov\zd4_trifonov\obj\Debug\netstandard2.0\zd4_trifonov.dll
 C:\Users\st310-08\Desktop\zd4_trifonov\zd4_trifonov\obj\Debug\netstandard2.0\refint\zd4_trifonov.dll

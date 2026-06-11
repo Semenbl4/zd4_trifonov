@@ -7,24 +7,36 @@
       "RelativeMoniker": "D:0:0:{58742FFC-4A9B-46F9-8763-985F171214E8}|zd4_trifonov\\zd4_trifonov.csproj|solutionrelative:zd4_trifonov\\views\\tabbedpage1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58742FFC-4A9B-46F9-8763-985F171214E8}|zd4_trifonov\\zd4_trifonov.csproj|c:\\users\\st310-08\\desktop\\zd4_trifonov\\zd4_trifonov\\views\\tabbedpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58742FFC-4A9B-46F9-8763-985F171214E8}|zd4_trifonov\\zd4_trifonov.csproj|solutionrelative:zd4_trifonov\\views\\tabbedpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58742FFC-4A9B-46F9-8763-985F171214E8}|zd4_trifonov\\zd4_trifonov.csproj|c:\\users\\st310-08\\desktop\\zd4_trifonov\\zd4_trifonov\\views\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{58742FFC-4A9B-46F9-8763-985F171214E8}|zd4_trifonov\\zd4_trifonov.csproj|solutionrelative:zd4_trifonov\\views\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\st310-08\\Desktop\\zd4_trifonov\\zd4_trifonov\\obj\\Debug\\netstandard2.0\\Views\\TabbedPage1.xaml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:zd4_trifonov\\obj\\Debug\\netstandard2.0\\Views\\TabbedPage1.xaml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58742FFC-4A9B-46F9-8763-985F171214E8}|zd4_trifonov\\zd4_trifonov.csproj|c:\\users\\st310-08\\desktop\\zd4_trifonov\\zd4_trifonov\\views\\welcomepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{58742FFC-4A9B-46F9-8763-985F171214E8}|zd4_trifonov\\zd4_trifonov.csproj|solutionrelative:zd4_trifonov\\views\\welcomepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58742FFC-4A9B-46F9-8763-985F171214E8}|zd4_trifonov\\zd4_trifonov.csproj|c:\\users\\st310-08\\desktop\\zd4_trifonov\\zd4_trifonov\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58742FFC-4A9B-46F9-8763-985F171214E8}|zd4_trifonov\\zd4_trifonov.csproj|solutionrelative:zd4_trifonov\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\st310-08\\Desktop\\zd4_trifonov\\zd4_trifonov\\obj\\Debug\\netstandard2.0\\Views\\WelcomePage.xaml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:zd4_trifonov\\obj\\Debug\\netstandard2.0\\Views\\WelcomePage.xaml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58742FFC-4A9B-46F9-8763-985F171214E8}|zd4_trifonov\\zd4_trifonov.csproj|c:\\users\\st310-08\\desktop\\zd4_trifonov\\zd4_trifonov\\views\\welcomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58742FFC-4A9B-46F9-8763-985F171214E8}|zd4_trifonov\\zd4_trifonov.csproj|solutionrelative:zd4_trifonov\\views\\welcomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58742FFC-4A9B-46F9-8763-985F171214E8}|zd4_trifonov\\zd4_trifonov.csproj|c:\\users\\st310-08\\desktop\\zd4_trifonov\\zd4_trifonov\\appshell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
       "RelativeMoniker": "D:0:0:{58742FFC-4A9B-46F9-8763-985F171214E8}|zd4_trifonov\\zd4_trifonov.csproj|solutionrelative:zd4_trifonov\\appshell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{58742FFC-4A9B-46F9-8763-985F171214E8}|zd4_trifonov\\zd4_trifonov.csproj|c:\\users\\st310-08\\desktop\\zd4_trifonov\\zd4_trifonov\\views\\tabbedpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58742FFC-4A9B-46F9-8763-985F171214E8}|zd4_trifonov\\zd4_trifonov.csproj|solutionrelative:zd4_trifonov\\views\\tabbedpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{58742FFC-4A9B-46F9-8763-985F171214E8}|zd4_trifonov\\zd4_trifonov.csproj|c:\\users\\st310-08\\desktop\\zd4_trifonov\\zd4_trifonov\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58742FFC-4A9B-46F9-8763-985F171214E8}|zd4_trifonov\\zd4_trifonov.csproj|solutionrelative:zd4_trifonov\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58742FFC-4A9B-46F9-8763-985F171214E8}|zd4_trifonov\\zd4_trifonov.csproj|c:\\users\\st310-08\\desktop\\zd4_trifonov\\zd4_trifonov\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58742FFC-4A9B-46F9-8763-985F171214E8}|zd4_trifonov\\zd4_trifonov.csproj|solutionrelative:zd4_trifonov\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 274,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,20 +62,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TabbedPage1.xaml.g.cs",
-              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\zd4_trifonov\\zd4_trifonov\\obj\\Debug\\netstandard2.0\\Views\\TabbedPage1.xaml.g.cs",
-              "RelativeDocumentMoniker": "zd4_trifonov\\obj\\Debug\\netstandard2.0\\Views\\TabbedPage1.xaml.g.cs",
-              "ToolTip": "C:\\Users\\st310-08\\Desktop\\zd4_trifonov\\zd4_trifonov\\obj\\Debug\\netstandard2.0\\Views\\TabbedPage1.xaml.g.cs",
-              "RelativeToolTip": "zd4_trifonov\\obj\\Debug\\netstandard2.0\\Views\\TabbedPage1.xaml.g.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAtwDkAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "WelcomePage.xaml.g.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\zd4_trifonov\\zd4_trifonov\\obj\\Debug\\netstandard2.0\\Views\\WelcomePage.xaml.g.cs",
+              "RelativeDocumentMoniker": "zd4_trifonov\\obj\\Debug\\netstandard2.0\\Views\\WelcomePage.xaml.g.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\zd4_trifonov\\zd4_trifonov\\obj\\Debug\\netstandard2.0\\Views\\WelcomePage.xaml.g.cs",
+              "RelativeToolTip": "zd4_trifonov\\obj\\Debug\\netstandard2.0\\Views\\WelcomePage.xaml.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T06:52:37.978Z",
+              "WhenOpened": "2026-06-11T09:14:00.657Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "WelcomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\zd4_trifonov\\zd4_trifonov\\Views\\WelcomePage.xaml.cs",
+              "RelativeDocumentMoniker": "zd4_trifonov\\Views\\WelcomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\zd4_trifonov\\zd4_trifonov\\Views\\WelcomePage.xaml.cs",
+              "RelativeToolTip": "zd4_trifonov\\Views\\WelcomePage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T08:05:19.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WelcomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\zd4_trifonov\\zd4_trifonov\\Views\\WelcomePage.xaml",
+              "RelativeDocumentMoniker": "zd4_trifonov\\Views\\WelcomePage.xaml",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\zd4_trifonov\\zd4_trifonov\\Views\\WelcomePage.xaml",
+              "RelativeToolTip": "zd4_trifonov\\Views\\WelcomePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-11T08:04:21.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\zd4_trifonov\\zd4_trifonov\\Views\\styles.css",
+              "RelativeDocumentMoniker": "zd4_trifonov\\Views\\styles.css",
+              "ToolTip": "C:\\Users\\st310-08\\Desktop\\zd4_trifonov\\zd4_trifonov\\Views\\styles.css",
+              "RelativeToolTip": "zd4_trifonov\\Views\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-11T07:59:49.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "AppShell.xaml.cs",
               "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\zd4_trifonov\\zd4_trifonov\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "zd4_trifonov\\AppShell.xaml.cs",
@@ -71,31 +122,30 @@
               "RelativeToolTip": "zd4_trifonov\\AppShell.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T06:34:24.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T06:34:24.832Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\zd4_trifonov\\zd4_trifonov\\App.xaml.cs",
               "RelativeDocumentMoniker": "zd4_trifonov\\App.xaml.cs",
               "ToolTip": "C:\\Users\\st310-08\\Desktop\\zd4_trifonov\\zd4_trifonov\\App.xaml.cs",
               "RelativeToolTip": "zd4_trifonov\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-11T06:11:47.95Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "TabbedPage1.xaml.cs",
               "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\zd4_trifonov\\zd4_trifonov\\Views\\TabbedPage1.xaml.cs",
               "RelativeDocumentMoniker": "zd4_trifonov\\Views\\TabbedPage1.xaml.cs",
               "ToolTip": "C:\\Users\\st310-08\\Desktop\\zd4_trifonov\\zd4_trifonov\\Views\\TabbedPage1.xaml.cs",
               "RelativeToolTip": "zd4_trifonov\\Views\\TabbedPage1.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-11T06:09:17.045Z",
               "EditorCaption": ""
@@ -108,14 +158,14 @@
               "RelativeDocumentMoniker": "zd4_trifonov\\Views\\TabbedPage1.xaml",
               "ToolTip": "C:\\Users\\st310-08\\Desktop\\zd4_trifonov\\zd4_trifonov\\Views\\TabbedPage1.xaml",
               "RelativeToolTip": "zd4_trifonov\\Views\\TabbedPage1.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-06-11T06:01:59.874Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\st310-08\\Desktop\\zd4_trifonov\\zd4_trifonov\\AppShell.xaml",
               "RelativeDocumentMoniker": "zd4_trifonov\\AppShell.xaml",

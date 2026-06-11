@@ -16,7 +16,7 @@ namespace zd4_trifonov
             InitializeComponent();
 
             DependencyService.Register<MockDataStore>();
-            MainPage = new zd4_trifonov.Views.TabbedPage1();
+            MainPage = new NavigationPage(new zd4_trifonov.Views.WelcomePage());
         }
 
         protected override void OnStart()
