@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zd4_trifonov.Views.WelcomePage">
+    <ContentPage.Resources>
+        <StyleSheet Source="/Views/styles.css" />
+    </ContentPage.Resources>
+
+    <StackLayout StyleClass="mainBg" Padding="30" Spacing="25" VerticalOptions="FillAndExpand">
+
+        <Label Text="Добро пожаловать!" HorizontalOptions="Center" Margin="0,40,0,20" StyleClass="welcomeTitle" />
+
+        <Frame CornerRadius="5" Padding="0" HasShadow="False" BackgroundColor="White" >
+            <StackLayout Spacing="0">
+                <Entry x:Name="UsernameEntry" Placeholder="Имя пользователя" Margin="10,5" PlaceholderColor="DarkGray" TextColor="Black" />
+                <BoxView HeightRequest="1" BackgroundColor="#3E4249" />
+                <Entry Placeholder="Пароль" IsPassword="True" Margin="10,5" PlaceholderColor="#8F9296" TextColor="Black" />
+            </StackLayout>
+        </Frame>
+
+        <Button Text="Войти" Clicked="OnSignInClicked" StyleClass="signInBtn" BackgroundColor="#E91E63" />
+
+        <StackLayout Orientation="Horizontal" HorizontalOptions="FillAndExpand" Margin="0,10,0,0">
+            <StackLayout Orientation="Horizontal" HorizontalOptions="StartAndExpand" Spacing="5">
+                <CheckBox Color="#E91E63"/>
+                <Label Text="Запомнить меня" VerticalOptions="Center" FontSize="12" />
+            </StackLayout>
+            <Label Text="Забыли пароль?" TextColor="#8F9296" HorizontalOptions="End" VerticalOptions="Center" FontSize="12" />
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

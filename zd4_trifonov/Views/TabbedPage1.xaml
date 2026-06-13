@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zd4_trifonov.Views.TabbedPage1"
+             Title="Калькулятор и Курсы">
+    
+  <!--Pages can be added as references or inline-->
+	<CarouselPage.Resources>
+		<StyleSheet Source="/Views/styles.css" />
+	</CarouselPage.Resources>
+
+	<!-- СТРАНИЦА 1 КАРУСЕЛИ: КРЕДИТНЫЙ КАЛЬКУЛЯТОР -->
+	<ContentPage Title="Калькулятор">
+		<ScrollView>
+			<StackLayout StyleClass="mainBg" Padding="20" Spacing="15">
+
+				<Label x:Name="WelcomeLabel" Text="Кредитный калькулятор" FontSize="20" FontAttributes="Bold" HorizontalOptions="Center" />
+
+				<Label Text="Сумма кредита (руб.):" />
+				<Entry x:Name="AmountEntry" Keyboard="Numeric" Placeholder="Введите сумму" PlaceholderColor="#8F9296" TextColor="White" />
+
+				<Label Text="Срок (месяцев):" />
+				<Entry x:Name="PeriodEntry" Keyboard="Numeric" Placeholder="Введите срок" PlaceholderColor="#8F9296" TextColor="White" />
+
+				<Label Text="Вид платежа:" />
+				<Picker x:Name="TypePicker" BackgroundColor="#2D3035" TextColor="White" TitleColor="#8F9296">
+					<Picker.Items>
+						<x:String>Аннуитетный</x:String>
+						<x:String>Дифференцированный</x:String>
+					</Picker.Items>
+				</Picker>
+
+				<Label Text="Процентная ставка:" />
+				<Slider x:Name="RateSlider" Minimum="0" Maximum="30" Value="5"
+                        ThumbColor="#E91E63" MinimumTrackColor="#E91E63" MaximumTrackColor="#3E4249"
+                        ValueChanged="OnSliderValueChanged" />
+				<Label x:Name="RateLabel" Text="5%" HorizontalOptions="Center" />
+
+				<Button Text="Рассчитать" Clicked="OnCalculateClicked" BackgroundColor="#E91E63" TextColor="White" />
+
+			</StackLayout>
+		</ScrollView>
+	</ContentPage>
+
+	<!-- СТРАНИЦА 2 КАРУСЕЛИ: КУРСЫ ВАЛЮТ -->
+	<ContentPage Title="Курсы валют">
+		<StackLayout StyleClass="mainBg" Padding="20" Spacing="20">
+
+			<Label Text="Центробанк РФ:" FontSize="Title" FontAttributes="Bold" />
+
+			<StackLayout Orientation="Horizontal" Spacing="10">
+				<Label Text="USD" FontAttributes="Bold" />
+				<Label Text="80.000" />
+			</StackLayout>
+
+			<StackLayout Orientation="Horizontal" Spacing="10">
+				<Label Text="EUR" FontAttributes="Bold" />
+				<Label Text="86.000" />
+			</StackLayout>
+
+			<Label Text="Выбрать дату:" Margin="0,20,0,0" />
+			<DatePicker x:Name="RateDatePicker" BackgroundColor="#2D3035" TextColor="White" />
+
+		</StackLayout>
+	</ContentPage>
+
+</CarouselPage>
